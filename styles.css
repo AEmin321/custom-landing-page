@@ -96,3 +96,60 @@ h1 {
 .hero-image img {
     width: 500px;
 }
+
+/* INFO CARDS SECTION */
+.info-section {
+    padding: 25px;
+    margin: 25px 0;
+}
+
+.info-heading {
+    font-size: 30px;
+    font-weight: 700;
+    color: #3C4048;
+    text-align: center;
+    margin: 35px 0 35px 0;
+}
+
+.info-cards {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 22px 37px;
+    color: #3C4048;
+}
+
+.card {
+    padding: 8px;
+    flex: 1 1 180px;
+}
+
+.card img{
+    width: 150px;
+    height: 150px;
+}
+
+/* QUOTE SECTION */
+.quote-section {
+    background-color: #00ABB3;
+    color: #EAEAEA;
+    padding: 45px 90px;
+}
+
+.quote {
+    font-size: 32px;
+    font-weight: lighter;
+    font-style: italic;
+    padding: 25px 100px;
+    padding-bottom: 0;
+}
+
+.qf {
+    text-align: right;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 25px 120px;
+}
+
