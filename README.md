@@ -2,7 +2,9 @@
 
 <p>Modern landing page design with CSS/HTML.</p>
 
-- [Clik to Live View](https://aemin321.github.io/landing-page/)
+## Live Preview
+
+- https://aemin321.github.io/landing-page/
 
 ## Screenshots
 
